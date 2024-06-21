@@ -19,6 +19,6 @@ Implementa un CRUD (CREATE, READ, UPDATE, DELETE) utiliza Python con Tkinter par
 
 **Abrir el programa**
 
-**Run `main.py**
+**Run main.py**
 
 ###### Creado por Ivanna López Barbona
