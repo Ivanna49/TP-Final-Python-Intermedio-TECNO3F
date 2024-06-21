@@ -13,7 +13,7 @@ Implementa un CRUD (CREATE, READ, UPDATE, DELETE) utiliza Python con Tkinter par
 
 
 
-##🚀Cómo usarlo?:
+## 🚀Cómo usarlo?:
 
 **Clonar el repositorio**
 
